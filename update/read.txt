@@ -1,0 +1,10 @@
+update links:
+
+reports:
+Today's Report | Specific Day's Report | Income Report | Add Offerings | Add Income
+
+usersuccess:
+Today's Report | Add Offerings | Add Income | Log Out
+
+update database:
+table: income
